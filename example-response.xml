@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Event Created="2016-05-25 00:45:08" Version="1.5">
+	<EventNumber>10</EventNumber>
+	<Title>Example Event</Title>
+	<StartDate>
+		<Date>2017-11-31</Date>
+		<Time>13:00:00</Time>
+	</StartDate>
+	<EndDate>
+		<Date>2017-11-11</Date>
+		<Time>13:00:00</Time>
+	</EndDate>
+	<Subscribe>
+		<Option>Ja</Option>
+	</Subscribe>
+	<SubscribeDate>
+		<Date>11-11-2017</Date>
+		<Time>13:00:00</Time>
+	</SubscribeDate>
+	<Location>Stadhuisplein 5</Location>
+	<Costs>17,00</Costs>
+	<EducationProgram>
+		<Option>
+			<Name>Electrical Engineering</Name>
+			<Phase>Bachelor</Phase>
+		</Option>
+
+		<Option>
+			<Name>Electrical Engineering</Name>
+			<Phase>Master</Phase>
+		</Option>
+	</EducationProgram>
+	<Language>
+		<Option>English</Option>
+		<Option>Nederlands</Option>		
+	</Language>
+	<ProfileGraduate>
+		<Option>Academic career</Option>
+		<Option>Industrial career</Option>
+	</ProfileGraduate>
+	<Category>
+		<Option>Company presentation</Option>
+		<Option>Company visit</Option>
+	</Category>
+	<ShortDesciption>
+		Dit is de korte omschrijving.
+	</ShortDesciption>
+	<Description>
+		Dit is de lange omschrijving.
+	</Description>
+	<URL>http://myfuture.tue.nl</URL>
+</Event>
